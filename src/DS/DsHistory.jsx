@@ -224,7 +224,7 @@ const History = () => {
         
           <tr>
               <td>Year 513</td>
-              <td>The first Ruler gets killed by his eldest son, who becomes the second Ruler of Lust. Then, he kills his siblings and mother.</td>
+              <td>The first Ruler of Lust gets killed by his eldest son, who becomes the second Ruler of Lust. Then, he kills his siblings and mother.</td>
           </tr>
         </tbody>
       </table>
