@@ -7,9 +7,9 @@
 body{
   background-color: black;
   font-size: 20px; 
-  width: 100%;
+  width: auto;
   font-family: 'Arial', sans-serif;
-  height: 100%;
+  height: auto;
 }
 .center{
     text-align: center;
@@ -73,7 +73,7 @@ body{
 }
 .box {
     width: 25%; /* Adjust the width as needed */
-    height: 300px;
+    height: auto;
     display: inline-block;
     margin: 1%; /* Adjust the margin as needed for spacing */
     font-size: 16px; /* Reset font size for content */
@@ -103,8 +103,9 @@ body{
   margin: 1%; /* Adjust the margin as needed for spacing */
   font-size: 16px; /* Reset font size for content */
   text-align: center;
+  margin-right: 140px;
   background-color: rgb(250, 230, 164);
-  padding: 10px; /* Optional: Add padding to the boxes */
+  padding: 1px; /* Optional: Add padding to the boxes */
   box-sizing: border-box; /* Include padding in the width calculation */
   vertical-align: top; /* Align the boxes to the top */
 }
@@ -160,7 +161,7 @@ li {
     }
     .box {
         width: 90%; /* Adjust the width as needed */
-        height: 300px;
+        height: auto;
         display: inline-block;
        /* Adjust the margin as needed for spacing */
         margin-top:4%;
@@ -220,7 +221,7 @@ li {
     }
     .box {
         width: 90%; /* Adjust the width as needed */
-        height: 400px;
+        height: auto;
         display: inline-block;
         margin: 1%; /* Adjust the margin as needed for spacing */
         font-size: 16px; /* Reset font size for content */

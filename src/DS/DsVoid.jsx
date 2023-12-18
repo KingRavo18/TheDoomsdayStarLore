@@ -30,11 +30,9 @@ const Void = () => {
     <p className="p">The only way to normally get here is using demon teleportation mandalas, which can only be cast using the demon keys.</p>
 
     <h2 style={{padding:"15px"}}>Origin</h2>
-    <p>An area created by Nova Fames, using the power of Famine to</p><p> destroy Gehenna and Elyssium. As punishment for doing so, in year 1
-    Death</p><p> and Pestilence order him to isolate the space and inprison War inside.</p>
-    <h2 style={{padding:"15px"}}>The Local</h2>
-    <p>An area created by Nova Fames, using the power of Famine to</p><p> destroy Gehenna and Elyssium. As punishment for doing so, in year 1
-    Death</p><p> and Pestilence order him to isolate the space and inprison War inside.</p>
+    <p>An area created by Nova Fames, using the power of Famine to destroy Gehenna and Elyssium. </p><p> As punishment for doing so, in year 1
+    Death and Pestilence order him to isolate the space and inprison War inside.</p>
+
 </div>
 <div className="center"> 
     <h2 style={{padding:"15px"}}>What is located here?</h2>
@@ -50,6 +48,8 @@ const Void = () => {
     <div className="box"><h3>Gehenna and Elyssium.</h3>
     <p style={{padding:"15px"}}>Gehenna is the homeworld of the eight Divine sins. Elyssium is the homeworld of the seven Divine virtues.
         It once worked as an afterlife for the dead but Nova Fames plunged both of them into the void. 
+    </p><p>Gehenna's nature:</p><p>Split in seven different kingdoms, water, air, earth, fire, black forest, spirit world, and a land of eternal storms. Most people arrive in the land of water, where Vanitas lives.</p><p>
+      The sky was eternally black, with stars visible all day long. Even still, the sun illuminated the land.
     </p>
 </div>
 <div className="box"><h3>Souls of the Dead</h3>

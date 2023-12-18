@@ -217,6 +217,15 @@ const History = () => {
               <td>The Third Era</td>
               <td><b>The Third Doomsday Star has died.</b> </td>
           </tr>
+          <tr>
+              <td>Year 460</td>
+              <td>Divine Lust's last child becomes the first Ruler of Lust, even though a baby.</td>
+          </tr>
+        
+          <tr>
+              <td>Year 513</td>
+              <td>The first Ruler gets killed by his eldest son, who becomes the second Ruler of Lust. Then, he kills his siblings and mother.</td>
+          </tr>
         </tbody>
       </table>
     </div>
