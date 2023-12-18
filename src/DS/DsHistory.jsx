@@ -207,8 +207,15 @@ const History = () => {
           </tr>
           <tr>
               <td>Year 459</td>
-              <td>Mira is lured away from Superbia and both, Divine Pride and Astrum are murdured.
-              </td>
+              <td>Mira is lured away from Superbia and both, Divine Pride was murdured and Astrum gravely wonded. Once she discovered that, MIra hid him inside one of her secret forts in the dragonidum mountains.</td>
+          </tr>
+          <tr>
+              <td>Year 460</td>
+              <td>Mira goes on a rampage, believing the divines as guilty. She kills Michael, Divine Pride. Then challanges the rest to a battle on the dragonidum mountains. Sathania, Divine Wrath goes ahead and meets her end as she is frozen within the eastern ocean, alongside the ocean itself. Finally, Divine Lust and Divine Humility fight her. Asmodeus, Divine Lust and Mire strike each other down. Divine Humility survives.</td>
+          </tr>
+          <tr>
+              <td>The Third Era</td>
+              <td><b>The Third Doomsday Star has died.</b> </td>
           </tr>
         </tbody>
       </table>

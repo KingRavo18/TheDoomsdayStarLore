@@ -23,7 +23,7 @@ body{
 }
 /* Apply basic styles to the sidebar */
 .sidebar{
-    width: 200px; /* Adjust the width as needed */
+    width: auto; /* Adjust the width as needed */
     background-color: #333;
     color: #fff;
     height: 100%; /* Sidebar takes full height of the viewport */
@@ -68,8 +68,8 @@ body{
     
 }
 .rotate-90 {
-    width: 1503px ;
-    height: 1003px;
+    width: auto;
+    height: auto;
 }
 .box {
     width: 25%; /* Adjust the width as needed */
@@ -97,7 +97,7 @@ body{
     vertical-align: top; /* Align the boxes to the top */ 
 }
 .Historybox{
-  width: 90%; /* Adjust the width as needed */
+  width: auto; /* Adjust the width as needed */
   height: auto;
   display: inline-block;
   margin: 1%; /* Adjust the margin as needed for spacing */
@@ -147,7 +147,7 @@ li {
 }
   @media screen and (max-width: 768px) {
     body {
-        font-size: 1px; /* Adjust font size for readability on smaller screens */
+        font-size: 14px; /* Adjust font size for readability on smaller screens */
     }
     .p{
         margin-right: 5px;
@@ -162,7 +162,8 @@ li {
         width: 90%; /* Adjust the width as needed */
         height: 300px;
         display: inline-block;
-        margin: 1%; /* Adjust the margin as needed for spacing */
+       /* Adjust the margin as needed for spacing */
+        margin-top:4%;
         font-size: 16px; /* Reset font size for content */
         text-align: center;
         background-color: #333; /* Optional: Add a background color to the boxes */

@@ -32,6 +32,9 @@ const Void = () => {
     <h2 style={{padding:"15px"}}>Origin</h2>
     <p>An area created by Nova Fames, using the power of Famine to</p><p> destroy Gehenna and Elyssium. As punishment for doing so, in year 1
     Death</p><p> and Pestilence order him to isolate the space and inprison War inside.</p>
+    <h2 style={{padding:"15px"}}>The Local</h2>
+    <p>An area created by Nova Fames, using the power of Famine to</p><p> destroy Gehenna and Elyssium. As punishment for doing so, in year 1
+    Death</p><p> and Pestilence order him to isolate the space and inprison War inside.</p>
 </div>
 <div className="center"> 
     <h2 style={{padding:"15px"}}>What is located here?</h2>
