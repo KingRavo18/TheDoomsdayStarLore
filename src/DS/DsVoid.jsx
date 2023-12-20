@@ -37,7 +37,7 @@ const Void = () => {
 <div className="center"> 
     <h2 style={{padding:"15px"}}>What is located here?</h2>
 </div>
-<div className="container">
+<div className="containerVoid">
     <div className="box"><h3>Vanitas Vaingloria</h3>
        <p style={{padding:"15px"}}>  The Divine Vanity. The eight divine sin left behind by the others after they left.
         He was sealed within the void but survived because of his immortality.

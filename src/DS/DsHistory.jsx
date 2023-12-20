@@ -19,7 +19,7 @@ const History = () => {
     <h1>History</h1>
   </div>
 
-  <div className="container">
+  <div className="containerObserver">
     <div className="Historybox">
       <table>
         <thead>
@@ -177,14 +177,24 @@ const History = () => {
           </tr>
           <tr>
               <td>Year 222</td>
+              <td>Robin fights and kills Divine Sloth, the keeper of all secrets.</td>
+          </tr>
+          <tr>
+              <td>Year 222</td>
               <td>Divine Gluttony and Divine Temperance attack Robin because he locates forbidden knowledge and manage to wound him before themselves being killed. 
-                Believing that Greed's death was caused by him, Divine Wrath murders him.
-              </td>
+                Believing that Greed's death was caused by him, Divine Wrath murders him.</td>
           </tr>
           <tr>
               <td>The Second Era</td>
-              <td><b>The Second Doomsday Star has died.</b>
-              </td>
+              <td><b>The Second Doomsday Star has died.</b></td>
+          </tr>
+          <tr>
+              <td>Year 234</td>
+              <td>Hephaestus arrives in Uniondi and gets chosen as the first Ruler of Sloth. He chooses to abandon his duty and wanders the world.</td>
+          </tr>
+          <tr>
+              <td>Year 236</td>
+              <td>Divine Lust conquers Acedia. In reaction to this, Divine Humility convince the Rulers of temperance and kindness to unite and turn their three nations into one republic.</td>
           </tr>
           <tr>
               <td>Year 422</td>
@@ -192,18 +202,15 @@ const History = () => {
           </tr>
           <tr>
               <td>Year 423</td>
-              <td>Divine Pride hires Mira as his bodyguard.
-              </td>
+              <td>Divine Pride hires Mira as his bodyguard.</td>
           </tr>
           <tr>
               <td>Year 440</td>
-              <td>Divine Pride and Divine Humility have a nephilim child, Astrum. Mira, becomes his bodyguard. 
-              </td>
+              <td>Divine Pride and Divine Humility have a nephilim child, Astrum. Mira, becomes his bodyguard.</td>
           </tr>
           <tr>
               <td>Year 458</td>
-              <td>During his adulthhood ceremony, it is revealed to the world that Astrum Superbia is a nephilima.
-              </td>
+              <td>During his adulthhood ceremony, Astrum Superbia finds out he's a nephilim.</td>
           </tr>
           <tr>
               <td>Year 459</td>
@@ -221,10 +228,42 @@ const History = () => {
               <td>Year 460</td>
               <td>Divine Lust's last child becomes the first Ruler of Lust, even though a baby.</td>
           </tr>
-        
           <tr>
-              <td>Year 513</td>
+              <td>Year 503</td>
               <td>The first Ruler of Lust gets killed by his eldest son, who becomes the second Ruler of Lust. Then, he kills his siblings and mother.</td>
+          </tr>
+          <tr>
+              <td>Year 598</td>
+              <td>Malum Valentine, The ??? Doomsday Star finds and murders Adam. Moments later, Divine Humility kills Malum.</td>
+          </tr>
+          <tr>
+              <td>Year 600</td>
+              <td>Divine Humility suffers a poisoning attack and almost dies. However, her maid, Angela, strikes a deal with Pestilence, who in return for curing Divine Humility, requests Angela to serve him for all time.</td>
+          </tr>
+          <tr>
+              <td>Year 617</td>
+              <td>The second Ruler of Lust dies in a battle against Aviratia. His Grandniece, Lilith, is chosen as the third Ruler of Lust.</td>
+          </tr>
+          <tr>
+              <td>Year 732</td>
+              <td>The first prince of Luxuria, Zayno Luxuria is born.</td>
+          </tr>
+          <tr>
+              <td>Year 781</td>
+              <td>The Second prince of Luxuria, Luca Luxuria is born. He is chosen as the second incarnation of Divine Lust.</td>
+          </tr>
+          <tr>
+              <td>Year 800</td>
+              <td>Mira chooses Luca Luxuria, a nephilim, as the Fourth Doomsday Star and escapes the fort after being reborn.</td>
+          </tr>
+          <tr>
+              <td>Year 800</td>
+              <td>David Mors makes his way to the center of the world and strikes down Luca Luxuria, while he's still a soul. This releases countles souls of the dead who fly across the world now. To avoid his death, Luca Luxuria meets and joins with Divine Vanity. War makes him, his eighth arbiter moments before Luca 
+                enters an eighteen-year-long slumber.</td>
+          </tr>
+          <tr>
+              <td>The Fourth Era</td>
+              <td><b>The Fourth Doomsday Star has died.</b> </td>
           </tr>
         </tbody>
       </table>

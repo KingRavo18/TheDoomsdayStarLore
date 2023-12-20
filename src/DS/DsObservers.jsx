@@ -29,7 +29,7 @@ const ObserverPage = () => {
       <h2 className="h2"> In Order of Birth.</h2>
   </div>
       
-  <div className="container">
+  <div className="containerObserver">
     <div className="Observerbox">
         <div style={{borderBottom: '1px solid rgb(0, 0, 0)'}}><h2>Death/David Mors</h2></div>
         

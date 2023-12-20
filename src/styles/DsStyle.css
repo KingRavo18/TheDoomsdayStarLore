@@ -13,6 +13,7 @@ body{
 }
 .center{
     text-align: center;
+    width:auto;
     margin: auto;
     margin-top: 10px;
 }
@@ -61,11 +62,15 @@ body{
     text-align: center;
     width: 100%; /* Span the full width */
 }
-.container {
-    margin-left: 16%;
-    width: 84%;
-    font-size: 0; /* Remove extra space between inline-block elements */
-    
+.containerObserver {
+    margin-left: 6%;
+    width: auto;
+    font-size: 0; /* Remove extra space between inline-block elements */ 
+}
+.containerVoid {
+  margin-left: 16%;
+  width: auto;
+  font-size: 0; /* Remove extra space between inline-block elements */ 
 }
 .rotate-90 {
     width: auto;
@@ -73,6 +78,7 @@ body{
 }
 .box {
     width: 25%; /* Adjust the width as needed */
+    min-height: 300px;
     height: auto;
     display: inline-block;
     margin: 1%; /* Adjust the margin as needed for spacing */
@@ -85,11 +91,11 @@ body{
     color: white;
 }
 .Observerbox{
-    width: 90%; /* Adjust the width as needed */
+    width: auto; /* Adjust the width as needed */
     height: auto;
     display: inline-block;
     margin: 1%; /* Adjust the margin as needed for spacing */
-    font-size: 16px; /* Reset font size for content */
+    font-size: 14px; /* Reset font size for content */
     text-align: center;
     background-color: white; /* Optional: Add a background color to the boxes */
     padding: 10px; /* Optional: Add padding to the boxes */
@@ -103,8 +109,7 @@ body{
   margin: 1%; /* Adjust the margin as needed for spacing */
   font-size: 16px; /* Reset font size for content */
   text-align: center;
-  margin-right: 140px;
-  background-color: rgb(250, 230, 164);
+  background-color: rgb(226, 218, 190);
   padding: 1px; /* Optional: Add padding to the boxes */
   box-sizing: border-box; /* Include padding in the width calculation */
   vertical-align: top; /* Align the boxes to the top */
@@ -150,17 +155,13 @@ li {
     body {
         font-size: 14px; /* Adjust font size for readability on smaller screens */
     }
-    .p{
-        margin-right: 5px;
-        margin-left: 5px;
-    }
-    .container {
-        margin-left: 5%;
-        width: 100%;
-        font-size: 0; /* Remove extra space between inline-block elements */
-    }
+   
+    .containerObserver,
+    .containerVoid {
+      margin-left: 0;
+  }
     .box {
-        width: 90%; /* Adjust the width as needed */
+        width: auto; /* Adjust the width as needed */
         height: auto;
         display: inline-block;
        /* Adjust the margin as needed for spacing */
