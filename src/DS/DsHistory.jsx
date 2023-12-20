@@ -12,6 +12,7 @@ const History = () => {
       <li><Link to="/worldMap">World Map</Link></li>
       <li><Link to="/observers">Observers</Link></li>
       <li><Link to="/void">The Void</Link></li>
+      <li><Link to="/timePassage">Time Passage</Link></li>
     </ul>
   </div>
 
@@ -231,6 +232,10 @@ const History = () => {
           <tr>
               <td>Year 503</td>
               <td>The first Ruler of Lust gets killed by his eldest son, who becomes the second Ruler of Lust. Then, he kills his siblings and mother.</td>
+          </tr>
+          <tr>
+              <td>Year 580</td>
+              <td>Angela is born.</td>
           </tr>
           <tr>
               <td>Year 598</td>

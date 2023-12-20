@@ -63,7 +63,7 @@ body{
     width: 100%; /* Span the full width */
 }
 .containerObserver {
-    margin-left: 6%;
+    margin-left: 8%;
     width: auto;
     font-size: 0; /* Remove extra space between inline-block elements */ 
 }

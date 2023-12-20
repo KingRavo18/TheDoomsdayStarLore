@@ -13,6 +13,7 @@ const Void = () => {
             <li><Link to="/worldMap">World Map</Link></li>
             <li><Link to="/observers">Observers</Link></li>
             <li><Link to="/void">The Void</Link></li>
+            <li><Link to="/timePassage">Time Passage</Link></li>
         </ul>
       </div>
 

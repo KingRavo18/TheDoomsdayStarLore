@@ -13,6 +13,7 @@ const ObserverPage = () => {
       <li><Link to="/worldMap">World Map</Link></li>
       <li><Link to="/observers">Observers</Link></li>
       <li><Link to="/void">The Void</Link></li>
+      <li><Link to="/timePassage">Time Passage</Link></li>
     </ul>
   </div>
 
@@ -121,7 +122,7 @@ const ObserverPage = () => {
                 <li>Name: Angela Pestis</li>
                 <li>Race: Fairy</li>
                 <li>Magic: Lightning</li>
-                <li>Birthday: ???</li>
+                <li>Birthday: 11th of spring's peak, year 580.</li>
                 <li>Height: 159 cm</li>
                 <li>Traits: Long, yellowy-green hair. Short stature. Freckled face. Faded, green eyes. Butterfly-like wings growing from her back.</li>
               </ul>
